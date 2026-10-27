@@ -1,0 +1,1 @@
+# Sistem-embedded-pentru-monitorizarea-pulsului-n-timp-real
